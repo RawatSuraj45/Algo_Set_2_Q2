@@ -30,7 +30,7 @@ public class Solution {
 	}
 
 	public static void main(String[] args) {
-		int arr[] = {1, 2, 3, 4, 5, 6, 7, 8};
+		int arr[] = {1, 3, 7, 11 , 12 , 14 , 18};
 		int b = arr.length;
 		System.out.print(LongestFibonacci(arr, b));
 	}
